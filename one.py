@@ -1,2 +1,3 @@
 print("hello python")
-print("welcome to python")
+print("welcome to python in spt college")
+
